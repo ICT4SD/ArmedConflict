@@ -10,3 +10,9 @@ References
 ------------
 
 - [Peace Research Institute Oslo](https://www.prio.org/Data/Armed-Conflict/)
+
+Data
+----
+- [Stanford University, Empirical Studies of Conflict Project (ESOC)](https://esoc.princeton.edu/file-type/external-data-repositories)
+- [ESOC Tables](https://esoc.princeton.edu/file-type/tabular-data)
+
