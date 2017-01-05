@@ -15,14 +15,14 @@ References & Data
 - [United Nations field missions](http://www.un.org/en/peacekeeping/about/dfs/)
 - [Map](http://www.un.org/en/peacekeeping/documents/dfs_mission_supprt_map.pdf)
 
-Deliverable 1
+Deliverable 1: Characterizing violent conflicts in the Middle East
 --------------
 A dashboards characterizing violent conflicts in countries currently covered by a United Nations Peace or Political Mission.
 - Suggested initial countries for rapid prototyping: IRAQ, SYRIA, YEMEN, Afghanistan
 - Suggested datasources above
 
 
-Deliverable 2 : Political and humanitarian trends regarding Lebanon
+Deliverable 2 : [Political and humanitarian trends regarding Lebanon](https://github.com/ICT4SD/ArmedConflict/wiki/Ten-years-of-Security-Council-Resolution-1701-(2006))
 -------------
 
 In the context of the implementation of Security Council resolution 1701 (2006), in light of the ten year mark this year. 
