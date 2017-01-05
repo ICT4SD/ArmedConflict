@@ -22,7 +22,7 @@ Dashboard characterizing violent conflicts in countries currently covered by a U
 - Suggested datasources above
 
 
-Deliverable 2 : [Trends and developments in Lebanon: Ten years of Security Council Resolution 1701 (2006)](https://github.com/ICT4SD/ArmedConflict/wiki/Trends-and-developments-in-Lebanon)
+Deliverable 2 : [Trends and developments in Lebanon](https://github.com/ICT4SD/ArmedConflict/wiki/Trends-and-developments-in-Lebanon)
 -------------
 Dashboard on trends regarding peace and security in Lebanon with a focus on the implementation of UN Security Council Resolution 1701 (2006) and the spillover effects of the armed conflict in Syria. 
 - Suggested datasources based on UN Security Council reports and other public data
