@@ -28,4 +28,3 @@ Dashboard on trends regarding peace and security in Lebanon with a focus on the 
 - Suggested datasources based on UN Security Council reports and other public data
 - [Further details about the outline of the project here](https://github.com/ICT4SD/ArmedConflict/wiki/Ten-years-of-Security-Council-Resolution-1701-(2006))
 
-.....
