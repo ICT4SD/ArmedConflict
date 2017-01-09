@@ -26,5 +26,5 @@ Deliverable 2 : [Trends and developments in Lebanon](https://github.com/ICT4SD/A
 -------------
 Dashboard on trends regarding peace and security in Lebanon with a focus on the implementation of UN Security Council Resolution 1701 (2006) and the spillover effects of the armed conflict in Syria. 
 - Suggested datasources based on UN Security Council reports and other public data
-- [Further details about the outline of the project here](https://github.com/ICT4SD/ArmedConflict/wiki/Ten-years-of-Security-Council-Resolution-1701-(2006))
+- [Further details about the outline of the project here](https://github.com/ICT4SD/ArmedConflict/wiki/Trends-and-developments-in-Lebanon)
 
