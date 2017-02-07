@@ -1,0 +1,26 @@
+# Site settings
+title: "Armed Conflict Analytics"
+header-img: img/conflict.jpg
+email:
+copyright_name: Information and Communications Technology for Sustainable Development.
+description: "Historical data analytics of armed conflicts worldwide to better understand their characteristics and find patterns in causes and solutions."
+baseurl: ""
+url: "https://ict4sd.github.io/ArmedConflict"
+twitter_username:
+github_username:  ict4sd
+facebook_username:
+email_username:
+site_disclaimer: "The designations employed in this site and all the materials presented in it do not imply the expression of any opinions whatsoever on the part of the Secretariat of the United Nations concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries."
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+google_tracking_id: UA-85635646-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 20
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

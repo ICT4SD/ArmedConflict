@@ -1,30 +1,24 @@
-# ArmedConflict
-Historical data analytics of armed conflicts worldwide.
+#Clean Blog by Start Bootstrap - Jekyll Version
 
-Project Objective
-------------
+The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
 
-This project analyzes historical data of armed conflicts, and characterizes current world conflicts, with the aim to predict e.g. how long conflict last, casualties, factors contributing to the initiation and ending of conflicts. The analysis will seek correlations with types of countries, religion, types of parties in conflict, casualties etc. 
+###[View Live Demo &rarr;](http://blackrockdigital.github.io/startbootstrap-clean-blog-jekyll/)
 
-References & Data
-------------
+## Before You Begin
 
-- [Peace Research Institute Oslo](https://www.prio.org/Data/Armed-Conflict/)
-- [Stanford University, Empirical Studies of Conflict Project (ESOC)](https://esoc.princeton.edu/file-type/external-data-repositories)
-- [ESOC Tables](https://esoc.princeton.edu/file-type/tabular-data)
-- [United Nations field missions](http://www.un.org/en/peacekeeping/about/dfs/)
-- [Map](http://www.un.org/en/peacekeeping/documents/dfs_mission_supprt_map.pdf)
+In the _config.yml file, the base URL is set to /startbootstrap-clean-blog-jekyll which is this themes gh-pages preview. It's recommended that you remove the base URL before working with this theme locally!
 
-Deliverable 1: [Characterizing violent conflicts in the Middle East](https://github.com/ICT4SD/ArmedConflict/wiki/Characterizing-violent-conflicts-in-the-Middle-East)
---------------
-Dashboard characterizing violent conflicts in countries currently covered by a United Nations Peace or Political Mission.
-- Suggested initial countries for rapid prototyping: Iraq, Syria, Yemen, Afghanistan
-- Suggested datasources above
+It should look like this:
+`baseurl: ""`
 
+## What's Included
 
-Deliverable 2 : [Trends and developments in Lebanon](https://github.com/ICT4SD/ArmedConflict/wiki/Trends-and-developments-in-Lebanon)
--------------
-Dashboard on trends regarding peace and security in Lebanon with a focus on the implementation of UN Security Council Resolution 1701 (2006) and the spillover effects of the armed conflict in Syria. 
-- Suggested datasources based on UN Security Council reports and other public data
-- [Further details about the outline of the project here](https://github.com/ICT4SD/ArmedConflict/wiki/Trends-and-developments-in-Lebanon)
+A full Jekyll environment is included with this theme. If you have Jekyll installed, simply run `jekyll serve` in your command line and preview the build in your browser. You can use `jekyll serve --watch` to watch for changes in the source files as well.
 
+A Grunt environment is also included. There are a number of tasks it performs like minification of the JavaScript, compiling of the LESS files, adding banners to apply the MIT license, and watching for changes. Run the grunt default task by entering `grunt` into your command line which will build the files. You can use `grunt watch` if you are working on the JavaScript or the LESS.
+
+You can run `jekyll serve --watch` and `grunt watch` at the same time to watch for changes and then build them all at once.
+
+## Support
+
+Visit Clean Blog's template overview page on Start Bootstrap at http://startbootstrap.com/template-overviews/clean-blog/ and leave a comment, email feedback@startbootstrap.com, or open an issue here on GitHub for support.
