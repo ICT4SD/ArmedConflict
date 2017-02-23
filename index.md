@@ -40,6 +40,7 @@ Literature Review
 In the World Commission on Environment and Development (1987), Brundtland has summarized a common view of armed conflict as:
 Nations have often fought to assert or resist control over war materials, energy supplies, land, river basins, sea passages and other key environmental resources.
 Similar view of tussle over control of natural resources as the primary reason behind conflicts has been echoed in many other scholars’ work. Thus, Renner et al. (1991) claimed that “throughout human history, but particularly since the system of sovereign nation states, struggles over access to and control over natural resources ... have been a root cause of tension and conflict” and that “history provides numerous examples of how states and nations were destabilized by environmental collapse leading to famine, migration, and rebellion.” Similarly citing the example of Pacific war (1879-84) between Chile and Peru over guano deposits, Brock (1991) asserted that “control over natural resources has always been important in enabling a country to wage war.”
+
 In the early 1970s, there was an emergence of environmental issues on the international
 political agenda, since then there has been increasing concern that environmental disruption is
 likely to increase the number of disputes originating from competition for scarce resources
@@ -54,6 +55,7 @@ sometimes become monumental national interest because of their consequences for 
 shipping lane at sea. Thus, there are no less than six claimants to all or part of the Spratly Islands
 in the South China Sea (Denoon & Brams, 1997), where the use of force anytime cannot be ruled
 out.
+
 As the above literature review suggest, all these previous studies has addressed conflict as
 the outcome variable and focused on identification of the primary factors behind the conflicts.
 However, one of the significant drawback in this line of work is that the duration of the conflict is
@@ -74,7 +76,7 @@ The dataset used for this study is Uppsala Conflict Data Program Georeferenced E
 - global monitoring and translation of local news performed by the BBC.
 - the secondary sources such as local media, NGO and IGO reports, field reports, books, etc.
 
-The basic unit of analysis in the UCDP GED dataset is the “event,” an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an event as:
+The basic unit of analysis in the UCDP GED dataset is the <i>“event”</i>, an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an event as:
 An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2).
 Only events linkable to a UCDP/Peace Research Institute Oslo (PRIO) Armed Conflict, or a UCDP Non-State Conflict or a UCDP One-Sided Violence instance are included in this dataset. Events are included for the entire period, i.e. both for the years when such conflicts were active and for the years when such conflicts where not active.
 AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
