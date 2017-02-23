@@ -248,6 +248,12 @@ Next, we check for homogeneity of variance-covariance matrices. Homogeneity of v
 
 <b>Table 2:</b> Partial snapshot of variance-covariance matrices for individual countries
 
+As the test results suggest, the variances for <i>High_est</i> and <i>Duration</i> are similar for some countries (e.g., Egypt), in some cases the variances are different. So, for this dataset we can interpret that homogeneity of variance-covariance may not hold true for all the countries.
+
+Now that we have tested all the assumptions, next we will proceed for MANOVA. Since the variances and covariances across groups are not exactly similar in our case, we will go for a robust MANOVA. We have performed both Choi and Marden’s robust test as well as Munzel and Brunner’s test, the results of which are compared in the table as shown in the below section:
+
+
+
 References
 ------------
 
