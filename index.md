@@ -252,6 +252,43 @@ As the test results suggest, the variances for <i>High_est</i> and <i>Duration</
 
 Now that we have tested all the assumptions, next we will proceed for MANOVA. Since the variances and covariances across groups are not exactly similar in our case, we will go for a robust MANOVA. We have performed both Choi and Marden’s robust test as well as Munzel and Brunner’s test, the results of which are compared in the table as shown in the below section:
 
+<table border =1>
+  <tr>
+    <td><i>mulrank()</i></td>
+    <td><i>cmanova()</i></td>
+  </tr>
+  <tr>
+    <td>
+    $test.stat
+    [1] 1.322191 
+    
+    $nu1 
+    [1] 4.439797 
+    
+    $p.value 
+             [,1] 
+    [1,] 0.255643 
+    
+    $N 
+    [1] 33 
+    
+    $q.hat 
+              [,1]      [,2] 
+    [1,] 0.4531680 0.4669421 
+    [2,] 0.4132231 0.4669421
+    </td>
+    <td>
+    $test.stat 
+    [1] 16.8481 
+    
+    $df 
+    [1] 6 
+    
+    $p.value    [,1] 
+    [1,] 0.009858016
+    </td>
+  </tr>
+</table>
 
 
 References
