@@ -193,6 +193,12 @@ Also if we list the countries according to the frequency of violence faced in th
 
 The basic intuition from the statistics should be, the places which saw largest number of violence and for longest period of time should count largest number of casualties. However, if we plot the co-ordinates (longitude and latitude) of each conflict area against the number of estimated deaths (Fig. 2), the map suggests apart from countries which are more prone to conflicts (such as Iraq) some of the other countries (such as Kuwait) with less number of conflicts also faced large number of casualties.
 
+<div>
+    <a href="https://plot.ly/~mandal.soumik/1/" target="_blank" title="armedConflict" style="display: block; text-align: center;"><img src="https://plot.ly/~mandal.soumik/1.png" alt="armedConflict" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="mandal.soumik:1" src="https://plot.ly/embed.js" async></script>
+</div>
+
+
 For this project, we are interested in the hypothetical relation between the duration of conflicts (the number of days one conflict lasts) and the countries as well as the relation between the number of casualties and the countries. So, the research questions we intend to find out are:
 
 - <b>RQ1:</b> Are some of the countries in middle-east more prone to long term conflicts than short-term skirmishes, and
