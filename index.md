@@ -112,6 +112,16 @@ Analysis
 ------------
 To analyze the data, we will start with some descriptive statistics of the data. As, the boxplot in the next page suggests (Fig. 1) that among all the middle eastern countries Egypt faced conflicts for longest span of time, whereas countries such as Bahrain, Qatar, and United Arab Emirates faced conflicts for shortest period of time.
 
+<table border="2">
+<tr>
+  <td>1</td>
+  <td>2</td>
+  <td>3</td>
+</tr>
+</table>
+Also if we list the countries according to the frequency of violence faced in this time period, the result (Table 1) shows countries such as Iraq and Turkey are the most frequent to such conflicts, whereas Qatar and United Arab Emirates have faced least amount of conflicts.
+
+
 
 
 References
