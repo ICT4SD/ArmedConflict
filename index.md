@@ -114,9 +114,9 @@ To analyze the data, we will start with some descriptive statistics of the data.
 
 <table border="2">
 <tr>
-  <td>1</td>
-  <td>2</td>
-  <td>3</td>
+  <td></td>
+  <td><b>Country</b></td>
+  <td><b>Frequency of Conflicts</b></td>
 </tr>
 </table>
 Also if we list the countries according to the frequency of violence faced in this time period, the result (Table 1) shows countries such as Iraq and Turkey are the most frequent to such conflicts, whereas Qatar and United Arab Emirates have faced least amount of conflicts.
