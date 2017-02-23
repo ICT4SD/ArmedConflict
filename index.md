@@ -258,22 +258,16 @@ Now that we have tested all the assumptions, next we will proceed for MANOVA. Si
     <td><i>cmanova()</i></td>
   </tr>
   <tr>
-    <td>
+    <td><pre>
     $test.stat
-    
-    [1] 1.322191 
-    
-    
-    
-    $nu1 
-    
+    [1] 1.322191
+   
+    $nu1  
     [1] 4.439797 
-    
     
     $p.value 
              [,1] 
     [1,] 0.255643 
-    
     $N 
     [1] 33 
     
@@ -281,6 +275,7 @@ Now that we have tested all the assumptions, next we will proceed for MANOVA. Si
               [,1]      [,2] 
     [1,] 0.4531680 0.4669421 
     [2,] 0.4132231 0.4669421
+    </pre>
     </td>
     <td>
     <pre>
@@ -290,7 +285,8 @@ Now that we have tested all the assumptions, next we will proceed for MANOVA. Si
     $df 
     [1] 6 
     
-    $p.value    [,1] 
+    $p.value    
+                [,1] 
     [1,] 0.009858016
     </pre>
     </td>
