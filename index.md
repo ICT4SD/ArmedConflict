@@ -83,13 +83,19 @@ Only events linkable to a UCDP/Peace Research Institute Oslo (PRIO) Armed Confli
 AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
 The maximum (best) spatial resolution of the UCDP GED dataset is the individual village or town. The dataset is fully geocoded meaning, the coordinates of the places for each event, with its longitude and latitude values are available in the dataset. The maximum (best) temporal resolution of the dataset is the day.
 The UCDP GED version 5.0 dataset contains 1,28,264 events. It is a global dataset that covers occurrences of events in the entire Globe (excluding Syria) between 1st January 1989 and 31st December 2015. However, for this study, since we are focusing only on Middle East countries, we have taken only a subset of the UCDP GED dataset consisting events from Middle East countries only. Some of the fields which were deemed to be unnecessary/redundant for this study were also removed from the UCDP dataset. As result, the final dataset used for this study consists of 16646 events. Below is a quick overview of variables that are included as part of the dataset used in this study.
- <b>Relid: </b> A quick machine parse-able string key describing the content of each event. The key is constructed using the abbreviation of the country name (for instance AFG for Afghanistan), the calendar year, the type of violence, the dyad or actor IDi and a counter.
+
+ <b>a) Relid: </b> A quick machine parse-able string key describing the content of each event. The key is constructed using the abbreviation of the country name (for instance AFG for Afghanistan), the calendar year, the type of violence, the dyad or actor ID and a counter.
 This variable is also a unique identifier for each event in the entire dataset.
-b) Year: The year of the occurrence for the event.
-c) Where_coordinates: Name of the location to which the event is assigned. Fully standardized and normalized.
-d) Latitude: Latitude (in decimal degrees).
-e) Longitude: Longitude of the place (in decimal degrees).
-f) Country: Name of the country in which the event takes place.
+
+<b>b) Year:</b> The year of the occurrence for the event.
+
+<b>c) Where_coordinates:</b> Name of the location to which the event is assigned. Fully standardized and normalized.
+
+<b>d) Latitude:</b> Latitude (in decimal degrees).
+
+<b>e) Longitude:</b> Longitude of the place (in decimal degrees).
+
+<b>f) Country:</b> Name of the country in which the event takes place.
 AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
 g) Date_start: The earliest possible date when the event has taken place (in YYYY-MM-DD format).
 h) Date_end: The last possible date when the event has taken place (in YYYY-MM-DD format).
