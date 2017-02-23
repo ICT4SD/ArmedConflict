@@ -70,9 +70,9 @@ factor behind the duration of the conflict.
 Dataset
 ------------
 The dataset used for this study is Uppsala Conflict Data Program Georeferenced Event Data (UCDP GED) version 5.0 (Croicu, & Sundberg, 2016). The UCDP GED dataset is manually curated and compiled, with automatic assistance in data retrieval, filtering, data storage, and manipulation, as well as data validation. All the entries in the dataset are collected from three sets of sources:
-a) global newswire reporting.
-b) global monitoring and translation of local news performed by the BBC.
-c) the secondary sources such as local media, NGO and IGO reports, field reports, books, etc.
+- a) global newswire reporting.
+- b) global monitoring and translation of local news performed by the BBC.
+- c) the secondary sources such as local media, NGO and IGO reports, field reports, books, etc.
 The basic unit of analysis in the UCDP GED dataset is the “event,” an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an event as:
 An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2).
 Only events linkable to a UCDP/Peace Research Institute Oslo (PRIO) Armed Conflict, or a UCDP Non-State Conflict or a UCDP One-Sided Violence instance are included in this dataset. Events are included for the entire period, i.e. both for the years when such conflicts were active and for the years when such conflicts where not active.
