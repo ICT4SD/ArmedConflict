@@ -224,8 +224,29 @@ For <i>Duration</i>:
     D = 0.95362, p-value = 0.3231 
     alternative hypothesis: two-sided
 
-Fig 3: Two-sample Kolmogorov-Smirnov test result on both DVs
+<b>Fig 3:</b> Two-sample Kolmogorov-Smirnov test result on both DVs
 
+As, we can see in case of both DVs, the test statistics (<i>p-value</i>) is found to be non-significant, i.e., for both the DVs we fail to reject the null hypothesis which says the distribution of values for each DV is normal.
+Next, we check for homogeneity of variance-covariance matrices. Homogeneity of variance-covariance is the multivariate version of the univariate assumption of homogeneity of variance and the bivariate assumption of homoscedasticity. In short, homogeneity of variance-covariance matrices concerns the variance-covariance matrices of the multiple dependent measures (two in this case) for each group. For example, for two dependent variables, it tests for two correlations and four covariances for equality across the groups. The result of testing this assumption is shown below:
+
+    --------------------------------------------- 
+    armed4$country: Bahrain 
+             high_est duration 
+    high_est 0.7173913 0 
+    duration 0.0000000 0 
+    
+    armed4$country: Egypt 
+              high_est duration 
+    high_est 188.582421 6.122154 
+    duration 6.122154 262.921464 
+    --------------------------------------------- 
+    armed4$country: Yemen (North Yemen) 
+              high_est duration 
+    high_est 971.07230 24.52792 
+    duration 24.52792 10.70436 
+    ---------------------------------------------
+
+<b>Table 2:</b> Partial snapshot of variance-covariance matrices for individual countries
 
 References
 ------------
