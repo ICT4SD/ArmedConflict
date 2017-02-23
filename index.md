@@ -118,6 +118,71 @@ To analyze the data, we will start with some descriptive statistics of the data.
   <td><b>Country</b></td>
   <td><b>Frequency of Conflicts</b></td>
 </tr>
+<tr>
+  <td>1</td>
+  <td>Bahrain</td>
+  <td>24</td>
+</tr>
+<tr>
+  <td>2</td>
+  <td>Egypt</td>
+  <td>536</td>
+</tr>
+<tr>
+  <td>3</td>
+  <td>Iran</td>
+  <td>219</td>
+</tr>
+<tr>
+  <td>4</td>
+  <td>Iraq</td>
+  <td>5891</td>
+</tr>
+<tr>
+  <td>5</td>
+  <td>Israel</td>
+  <td>2724</td>
+</tr>
+<tr>
+  <td>6</td>
+  <td>Jordan</td>
+  <td>2</td>
+</tr>
+<tr>
+  <td>7</td>
+  <td>Kuwait</td>
+  <td>40</td>
+</tr>
+<tr>
+  <td>8</td>
+  <td>Lebanon</td>
+  <td>1070</td>
+</tr>
+<tr>
+  <td>9</td>
+  <td>Qatar</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>Saudi Arabia</td>
+  <td>107</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>Turkey</td>
+  <td>4581</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>United Arab Emirates</td>
+  <td>1</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>Yemen (North Yemen)</td>
+  <td>1450</td>
+</tr>
 </table>
 Also if we list the countries according to the frequency of violence faced in this time period, the result (Table 1) shows countries such as Iraq and Turkey are the most frequent to such conflicts, whereas Qatar and United Arab Emirates have faced least amount of conflicts.
 
