@@ -295,6 +295,18 @@ Now that we have tested all the assumptions, next we will proceed for MANOVA. Si
   </tr>
 </table>
 
+From the output of the <i>mulrank()</i> function, we can see that we have a test statistic for the countries (<i>$test.stat</i>) as well as the corresponding <i>p-value</i> (<i>$p.value</i>). We can conclude that there is no significant main effect of the countries on the aspects of the either duration of conflicts or number of casualties involved, <i>F</i> = 1.32, <i>p</i> = 0.26. Therefore, we fail to reject our null hypothesis from the outcomes of Munzel and Brunner’s method. 
+
+However, the output of <i>cmanova()</i> shows a different result, here judging by the test-statistic and <i>p-value</i> (p>0.05) we can say the difference in countries involved has significant effect on the duration of the conflict.
+
+For this experiment, we will go with the outcomes of Munzel and Brunner’s method and assume that outcome of the MANOVA test was non-significant, so we will not run any post-HOC test. So, in conclusion we fail to reject our both null hypotheses H1 and H2.
+
+Limitations
+------------
+
+This research is not without limitations. One of the significant limitation of the dataset is that it does not contain data from Syria, the country which is seeing a prolonged civil war since March 2011. So findings of these study can significantly alter once the data from Syria is included in this study. Also from the research design perspective, a more practical approach would be to include other significant factors such as timing of the conflict (<i>Year</i>), the nature of surrounding area of the current conflict zone (up to a certain radius), etc. So, multiple analysis of co-variance (MANCOVA) would be a better experiment than MANOVA for this research design. Other than that, there is also need to see the change in nature of conflicts in terms of duration and casualties over time. So, a time series analysis will be a better alternative to extend this study, which the researcher expects to cover in future work.
+Reference
+
 
 References
 ------------
