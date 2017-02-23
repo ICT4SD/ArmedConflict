@@ -191,7 +191,17 @@ To analyze the data, we will start with some descriptive statistics of the data.
 </table>
 Also if we list the countries according to the frequency of violence faced in this time period, the result (Table 1) shows countries such as Iraq and Turkey are the most frequent to such conflicts, whereas Qatar and United Arab Emirates have faced least amount of conflicts.
 
+The basic intuition from the statistics should be, the places which saw largest number of violence and for longest period of time should count largest number of casualties. However, if we plot the co-ordinates (longitude and latitude) of each conflict area against the number of estimated deaths (Fig. 2), the map suggests apart from countries which are more prone to conflicts (such as Iraq) some of the other countries (such as Kuwait) with less number of conflicts also faced large number of casualties.
 
+For this project, we are interested in the hypothetical relation between the duration of conflicts (the number of days one conflict lasts) and the countries as well as the relation between the number of casualties and the countries. So, the research questions we intend to find out are:
+
+- <b>RQ1:</b> Are some of the countries in middle-east more prone to long term conflicts than short-term skirmishes, and
+- <b>RQ2:</b> Are some of the middle-east countries are more prone to high casualty conflicts than other countries of the region?
+So, the corresponding null hypothesis for the above two relations are respectively:
+- <b>H1:</b> There is no significant difference between the countries on number of days each conflict lasts in each individual country.
+- <b>H2:</b> There is no significant difference between the countries on number of casualties suffered in conflicts.
+AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
+So, for this research design, the Duration and High_est are our outcome variables (DVs) whereas the Country is our independent variables (IV). Since we have more than one DV in this case, we will perform a multivariate analysis of variance (MANOVA) to test the significance of IV on predicting the DVs.
 
 
 References
