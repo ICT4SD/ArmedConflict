@@ -114,11 +114,6 @@ To analyze the data, we will start with some descriptive statistics of the data.
 
 <table border="1">
 <tr>
-<TH COLSPAN="2">
-<H3><BR>Table title</BR></H3>
-</TH>
-</tr>
-<tr>
   <td></td>
   <td><b>Country</b></td>
   <td><b>Frequency of Conflicts</b></td>
