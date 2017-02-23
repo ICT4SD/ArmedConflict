@@ -78,10 +78,10 @@ The dataset used for this study is Uppsala Conflict Data Program Georeferenced E
 
 The basic unit of analysis in the UCDP GED dataset is the <i>“event”</i>, an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an event as:
 
-<tab>"An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2)." </tab>
+<p style="margin-left: 40px"><i>"An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2)."</i> </p>
 
 Only events linkable to a UCDP/Peace Research Institute Oslo (PRIO) Armed Conflict, or a UCDP Non-State Conflict or a UCDP One-Sided Violence instance are included in this dataset. Events are included for the entire period, i.e. both for the years when such conflicts were active and for the years when such conflicts where not active.
-AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
+
 The maximum (best) spatial resolution of the UCDP GED dataset is the individual village or town. The dataset is fully geocoded meaning, the coordinates of the places for each event, with its longitude and latitude values are available in the dataset. The maximum (best) temporal resolution of the dataset is the day.
 The UCDP GED version 5.0 dataset contains 1,28,264 events. It is a global dataset that covers occurrences of events in the entire Globe (excluding Syria) between 1st January 1989 and 31st December 2015. However, for this study, since we are focusing only on Middle East countries, we have taken only a subset of the UCDP GED dataset consisting events from Middle East countries only. Some of the fields which were deemed to be unnecessary/redundant for this study were also removed from the UCDP dataset. As result, the final dataset used for this study consists of 16646 events. Below is a quick overview of variables that are included as part of the dataset used in this study.
 
@@ -97,10 +97,12 @@ This variable is also a unique identifier for each event in the entire dataset.
 <b>e) Longitude:</b> Longitude of the place (in decimal degrees).
 
 <b>f) Country:</b> Name of the country in which the event takes place.
-AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
-g) Date_start: The earliest possible date when the event has taken place (in YYYY-MM-DD format).
-h) Date_end: The last possible date when the event has taken place (in YYYY-MM-DD format).
-i) High_est: The highest reliable estimate of total fatalities.
+
+<b>g) Date_start:</b> The earliest possible date when the event has taken place (in YYYY-MM-DD format).
+
+<b>h) Date_end:</b> The last possible date when the event has taken place (in YYYY-MM-DD format).
+
+<b>i) High_est:</b> The highest reliable estimate of total fatalities.
 Since we are concentrating on the duration of the conflicts for these study, we have introduced one of our own variable, called Duration apart from those earlier mentioned, which represents the duration of a conflict in number of days. The Duration is calculated as:
 Duration: (Date_end - Date_start) +1
 So, from the above equation, the minimum duration of each conflict is one day.
