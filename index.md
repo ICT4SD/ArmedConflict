@@ -282,7 +282,7 @@ Now that we have tested all the assumptions, next we will proceed for MANOVA. Si
     [1,] 0.4531680 0.4669421 
     [2,] 0.4132231 0.4669421
     </td>
-    <td>
+    <td>{ white-space:pre }
     $test.stat 
     [1] 16.8481 
     
