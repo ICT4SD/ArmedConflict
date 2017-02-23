@@ -70,16 +70,16 @@ factor behind the duration of the conflict.
 Dataset
 ------------
 The dataset used for this study is Uppsala Conflict Data Program Georeferenced Event Data (UCDP GED) version 5.0 (Croicu, & Sundberg, 2016). The UCDP GED dataset is manually curated and compiled, with automatic assistance in data retrieval, filtering, data storage, and manipulation, as well as data validation. All the entries in the dataset are collected from three sets of sources:
-- a) global newswire reporting.
-- b) global monitoring and translation of local news performed by the BBC.
-- c) the secondary sources such as local media, NGO and IGO reports, field reports, books, etc.
+- global newswire reporting.
+- global monitoring and translation of local news performed by the BBC.
+- the secondary sources such as local media, NGO and IGO reports, field reports, books, etc.
 The basic unit of analysis in the UCDP GED dataset is the “event,” an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an event as:
 An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2).
 Only events linkable to a UCDP/Peace Research Institute Oslo (PRIO) Armed Conflict, or a UCDP Non-State Conflict or a UCDP One-Sided Violence instance are included in this dataset. Events are included for the entire period, i.e. both for the years when such conflicts were active and for the years when such conflicts where not active.
 AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
 The maximum (best) spatial resolution of the UCDP GED dataset is the individual village or town. The dataset is fully geocoded meaning, the coordinates of the places for each event, with its longitude and latitude values are available in the dataset. The maximum (best) temporal resolution of the dataset is the day.
 The UCDP GED version 5.0 dataset contains 1,28,264 events. It is a global dataset that covers occurrences of events in the entire Globe (excluding Syria) between 1st January 1989 and 31st December 2015. However, for this study, since we are focusing only on Middle East countries, we have taken only a subset of the UCDP GED dataset consisting events from Middle East countries only. Some of the fields which were deemed to be unnecessary/redundant for this study were also removed from the UCDP dataset. As result, the final dataset used for this study consists of 16646 events. Below is a quick overview of variables that are included as part of the dataset used in this study.
-a) Relid: A quick machine parse-able string key describing the content of each event. The key is constructed using the abbreviation of the country name (for instance AFG for Afghanistan), the calendar year, the type of violence, the dyad or actor IDi and a counter.
+ <b>Relid: </b> A quick machine parse-able string key describing the content of each event. The key is constructed using the abbreviation of the country name (for instance AFG for Afghanistan), the calendar year, the type of violence, the dyad or actor IDi and a counter.
 This variable is also a unique identifier for each event in the entire dataset.
 b) Year: The year of the occurrence for the event.
 c) Where_coordinates: Name of the location to which the event is assigned. Fully standardized and normalized.
