@@ -104,7 +104,9 @@ This variable is also a unique identifier for each event in the entire dataset.
 
 <b>i) High_est:</b> The highest reliable estimate of total fatalities.
 Since we are concentrating on the duration of the conflicts for these study, we have introduced one of our own variable, called Duration apart from those earlier mentioned, which represents the duration of a conflict in number of days. The Duration is calculated as:
+
 <p ALIGN=MIDDLE><b><i>Duration: (Date_end - Date_start) +1</i></b></p>
+
 So, from the above equation, the minimum duration of each conflict is one day.
 
 
