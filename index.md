@@ -112,7 +112,7 @@ Analysis
 ------------
 To analyze the data, we will start with some descriptive statistics of the data. As, the boxplot in the next page suggests (Fig. 1) that among all the middle eastern countries Egypt faced conflicts for longest span of time, whereas countries such as Bahrain, Qatar, and United Arab Emirates faced conflicts for shortest period of time.
 
-<table>
+<table border="1">
 <tr>
   <td></td>
   <td><b>Country</b></td>
