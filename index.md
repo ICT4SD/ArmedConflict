@@ -78,7 +78,8 @@ The dataset used for this study is Uppsala Conflict Data Program Georeferenced E
 
 The basic unit of analysis in the UCDP GED dataset is the <i>“event”</i>, an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an event as:
 
-<quote>"An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2)." </quote>
+<t>"An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2)." </t>
+
 Only events linkable to a UCDP/Peace Research Institute Oslo (PRIO) Armed Conflict, or a UCDP Non-State Conflict or a UCDP One-Sided Violence instance are included in this dataset. Events are included for the entire period, i.e. both for the years when such conflicts were active and for the years when such conflicts where not active.
 AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
 The maximum (best) spatial resolution of the UCDP GED dataset is the individual village or town. The dataset is fully geocoded meaning, the coordinates of the places for each event, with its longitude and latitude values are available in the dataset. The maximum (best) temporal resolution of the dataset is the day.
