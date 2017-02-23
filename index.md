@@ -197,10 +197,12 @@ For this project, we are interested in the hypothetical relation between the dur
 
 - <b>RQ1:</b> Are some of the countries in middle-east more prone to long term conflicts than short-term skirmishes, and
 - <b>RQ2:</b> Are some of the middle-east countries are more prone to high casualty conflicts than other countries of the region?
+
 So, the corresponding null hypothesis for the above two relations are respectively:
+
 - <b>H1:</b> There is no significant difference between the countries on number of days each conflict lasts in each individual country.
 - <b>H2:</b> There is no significant difference between the countries on number of casualties suffered in conflicts.
-AN ANALYSIS OF UNITED NATIONS ARMED CONFLICT DATA
+
 So, for this research design, the Duration and High_est are our outcome variables (DVs) whereas the Country is our independent variables (IV). Since we have more than one DV in this case, we will perform a multivariate analysis of variance (MANOVA) to test the significance of IV on predicting the DVs.
 
 
