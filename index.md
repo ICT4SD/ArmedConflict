@@ -260,10 +260,9 @@ Now that we have tested all the assumptions, next we will proceed for MANOVA. Si
   <tr>
     <td>
     $test.stat
-    [1] 1.322191 
-    
-    $nu1 
-    [1] 4.439797 
+    <\n>[1] 1.322191 
+    <\n><\n>$nu1 
+    <\n>[1] 4.439797 
     
     $p.value 
              [,1] 
