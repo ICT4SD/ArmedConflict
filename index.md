@@ -293,6 +293,9 @@ Now that we have tested all the assumptions, next we will proceed for MANOVA. Si
   </tr>
 </table>
 
+<b>Table 3</b>: Comparison between the output of <i>mulrank()</i> and <i>cmanova()</i> function
+
+
 From the output of the <i>mulrank()</i> function, we can see that we have a test statistic for the countries (<i>$test.stat</i>) as well as the corresponding <i>p-value</i> (<i>$p.value</i>). We can conclude that there is no significant main effect of the countries on the aspects of the either duration of conflicts or number of casualties involved, <i>F</i> = 1.32, <i>p</i> = 0.26. Therefore, we fail to reject our null hypothesis from the outcomes of Munzel and Brunner’s method. 
 
 However, the output of <i>cmanova()</i> shows a different result, here judging by the test-statistic and <i>p-value</i> (p>0.05) we can say the difference in countries involved has significant effect on the duration of the conflict.
