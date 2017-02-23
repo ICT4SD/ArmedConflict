@@ -76,9 +76,9 @@ The dataset used for this study is Uppsala Conflict Data Program Georeferenced E
 - global monitoring and translation of local news performed by the BBC.
 - the secondary sources such as local media, NGO and IGO reports, field reports, books, etc.
 
-The basic unit of analysis in the UCDP GED dataset is the <i>“event”</i>, an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an event as:
+The basic unit of analysis in the UCDP GED dataset is the <i>“event”</i>, an individual incident or phenomenon of lethal violence occurring at a given time and place. More specifically Croicu et al. defined an <i>event</i> as:
 
-<p style="margin-left: 40px"><i>"An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2)."</i> </p>
+<blockquote><i>"An incident where armed force was used by an organised actor against another organized actor, or against civilians, resulting in at least 1 direct death at a specific location and a specific date (p-2)."</i> </blockquote>
 
 Only events linkable to a UCDP/Peace Research Institute Oslo (PRIO) Armed Conflict, or a UCDP Non-State Conflict or a UCDP One-Sided Violence instance are included in this dataset. Events are included for the entire period, i.e. both for the years when such conflicts were active and for the years when such conflicts where not active.
 
@@ -106,6 +106,11 @@ This variable is also a unique identifier for each event in the entire dataset.
 Since we are concentrating on the duration of the conflicts for these study, we have introduced one of our own variable, called Duration apart from those earlier mentioned, which represents the duration of a conflict in number of days. The Duration is calculated as:
 <p ALIGN=MIDDLE><b><i>Duration: (Date_end - Date_start) +1</i></b></p>
 So, from the above equation, the minimum duration of each conflict is one day.
+
+
+Analysis
+------------
+
 
 References
 ------------
