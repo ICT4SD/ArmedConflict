@@ -5,7 +5,7 @@ title:      "Armed Conflict Analytics"
 subtitle:   "Research on armed conflicts worldwide."
 repository: "ArmedConflict"
 date:       2016-09-20 12:00:00
-author:     "Soumik Mandal, PhD student Information Science, Rutgers University"
+author:     "Soumik Mandal, PhD student in Information Science, Rutgers University"
 goal:		16
 partners:   
   - partner: "Rutgers University - InfoSeeking Lab"
@@ -47,7 +47,7 @@ likely to increase the number of disputes originating from competition for scarc
 (Gleditsch, 1998). This view was echoed in the speech of previous Norwegian Defense Minister
 Johan Jørgen Holst (1989) when he cautioned the world that environmental stress was likely to
 become an increasingly potent contributing factor to major conflicts between nations. Similarly,
-he then Secretary General of the Habitat conference in 1996 told participants that “the scarcity of
+the then Secretary General of the Habitat conference in 1996 told participants that “the scarcity of
 water is replacing oil as a flashpoint for conflict between nations” (Lonergan, 1997).
 More recent variety of territorial conflict concerns the economic zone, a matter of dispute
 between most countries which are at the close vicinity of the sea and where tiny islands can
