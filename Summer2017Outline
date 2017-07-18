@@ -1,0 +1,20 @@
+Primary Platform Features
+
+-Layered Choropleth Map: Showing both frequency of armed conflicts in regions as well as color coded national indexes (GDP, education rate, etc.) that the user selects to portray possible correlations between the two variables
+-Rate-of-Change Graphs: Multi-line graphs of variables that show rate-of-change of different indexes in various countries. The user can select whatever indexes they would like to see how similar or different the trends are or to predict future trends
+
+
+Platform Presentation and Interactivity
+-Clear, elegant visualizations 
+-Mix-and-match variables for analysis 
+-Representation of large data sets 
+-Possible automatic updates
+-Prototype → presents data sets that we choose according to variables we are interested in 
+-Long term → funnels in data from fixed databases that we choose
+
+
+Summer Goals
+
+-Finding and combining existing databases to create a reliable and accurate data source for the platform to use
+-Coding the features in an open-source language for easier accessibility and editability
+-Website development
