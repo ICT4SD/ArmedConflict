@@ -1,0 +1,5 @@
+ILO Model
+****************
+To address the problem of missing data, the International Labour Oraganization Trends Unit has designed and actively maintains Trends Econometric Models which are used to produce estimates of labour market indicators in the countries and years for which no real data exist.
+The models use multivariate regression techniques to impute missing values at the country level. The first step in each model is to assemble known pieces of real information (i.e. every real data point) for each indicator in question. Only data that are national in coverage and comparable across countries and over time are used as inputs. 
+They are designed to use the relationship between the various labour market indicators and their macroeconomic correlates (such as per capita GDP, GDP growth rates, demographic trends and country and time dummy variables) in order to produce estimates of the labour market indicators where no data exist. 
