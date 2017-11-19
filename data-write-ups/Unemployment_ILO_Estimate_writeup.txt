@@ -1,0 +1,11 @@
+Sources
+********
+ILO estimate based on Household Surveys, Labour force Surveys, Administrative Records, Population Census
+
+About the data
+***************
+The unemployment rate is the number of persons who are unemployed as a percent of the total number of employed and unemployed persons (i.e., the labour force). 
+
+Other useful links
+*******************
+http://www.ilo.org/ilostat-files/Documents/description_UR_EN.pdf

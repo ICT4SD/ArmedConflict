@@ -1,0 +1,15 @@
+Sources
+*********
+School register, school survey or census for enrolment; population census or estimates.
+
+About the data
+****************
+Rate of out-of-school children, adolescents, and youth of primary and secondary school age.
+
+The enrolment count should cover primary and secondary education and all types of schools and education institutions, including all public and private institutions that provide organized educational programmes. Children in the official primary age group that are in pre-primary education are considered out of school.
+
+The administrative data used in the calculation of the rate of out-of-school children are based on enrolment at a specific date which can bias the results by either counting enrolled children who never attend school or by omitting those who enrol after the reference date for reporting enrolment data. Furthermore, children who drop out of school after the reference date are not counted as out of school. Discrepancies between enrolment and population data from different sources can also result in over- or underestimates of the rate. Lastly, the international comparability of this indicator can be affected by the use of different concepts of enrolment and out-of-school children across countries.
+
+Other Useful Links
+*******************
+http://data.uis.unesco.org/OECDStat_Metadata/ShowMetadata.ashx?Dataset=EDULIT_DS&Coords=%5bEDULIT_IND%5d.%5bROFST_1T3_CP%5d&ShowOnWeb=true&Lang=en
