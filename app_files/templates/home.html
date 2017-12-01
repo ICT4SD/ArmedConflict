@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>acap-front-end</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
+    <link href="{{ url_for('static',filename='vendor/font-awesome/css/font-awesome.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static',filename='vendor/devicons/css/devicons.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static',filename='vendor/simple-line-icons/css/simple-line-icons.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Amatic+SC|Dosis|Fira+Sans|Gloria+Hallelujah|Great+Vibes|Open+Sans+Condensed:300|Philosopher|Satisfy" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static',filename='css/resume.min.css') }}" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+      <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Armed Conflict Analysis Project</span>
+        <span class="d-none d-lg-block">
+          <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ url_for('static',filename='img/profile.jpg') }}" alt="">
+        </span>
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav">
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#map">Map Analytics</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#graph">Graph Analytics</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="container-fluid p-0">
+
+      <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
+        <div class="my-auto">
+          <h1 class="mb-0">Armed Conflict
+            <span class="text-primary">Analytics Project</span>
+          </h1>
+          <div class="subheading mb-5">A 21st Century Model for Sharing Relevant Data Trends
+          </div>
+          <p class="mb-5">In collaboration with the Infoseeking Lab at Rutgers University and the United Nations, ACAP is a data visualization platform created to revolutionize how we look at data pertaining to global armed conflict. Our clean, interactive visuals bring real-time data in formats that open the door to endless research explorations, conscientious diplomatic endeavors, and growing educational opportunities in understanding violent conflict patterns across the world.</p>
+
+                      <div class="row">
+                <div class="col-sm-1">
+
+                        <img src="{{ url_for('static',filename='img/logos/blank.JPG') }}" align="center" alt="Infoseeking Lab Logo">
+
+                </div>
+                <div class="col-sm-4">
+
+                        <img src="{{ url_for('static',filename='img/logos/Infoseeking_Logo.JPG') }}" align="center" alt="Infoseeking Lab Logo">
+
+                </div>
+                <div class="col-sm-4">
+
+                        <img src="{{ url_for('static',filename='img/logos/un.png') }}" align="center" alt="United Nations Logo">
+
+                </div>
+                <div class="col-sm-3">
+
+                        <img src="{{ url_for('static',filename='img/logos/ru.JPG') }}" align="center" alt="Rutger SCI Logo">
+
+                </div>
+            </div>
+        </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="map">
+        <div class="my-auto">
+          <h2 class="mb-5">Map Analytics</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <div class="subheading mb-3">See how national indexes compare with frequency of armed conflict over time</div>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+
+              <p><iframe src="{{url_for('static',filename = 'map.html') }}" height='800' width='900'></iframe></p>
+            </div>
+          </div>
+
+        </div>
+
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="graph">
+        <div class="my-auto">
+          <h2 class="mb-5">Graph Analytics</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <div class="subheading mb-3">See the numerical correlation of how these variables change across eras</div>
+            </div>
+          </div>
+
+          <div class="resume-item d-flex flex-column flex-md-row">
+            <div class="resume-content mr-auto">
+              <p>[enter graphs here]</p>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      
+    </div>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="{{ url_for('static',filename='vendor/jquery/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static',filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="{{ url_for('static',filename='vendor/jquery-easing/jquery.easing.min.js') }}"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="{{ url_for('static',filename='js/resume.min.js') }}"></script>
+
+  </body>
+
+</html>
